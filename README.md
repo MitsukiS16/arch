@@ -1,13 +1,23 @@
 # arch
 
 
+## Clean pc
 
+To check the partitions on your system, you can use the following command: `lsblk`.
+To wipe a disk, run the following command: `wipefs -a /dev/nvme0n1`.
+
+
+## Archinstall
+
+Dont select type of desktop - youll pc will broke aaa
+Select grub - its better hehe
 
 
 ## Apps
 
-Opera
-Code
+firefox
+code
+gimp
 
 
 
