@@ -33,6 +33,10 @@ git
 
 ssh key
 
+## VSCode
+
+Extensoes: Prettier + HTML/CSS + Live Server
+
 
 
 ## Terminal
