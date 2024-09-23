@@ -39,6 +39,16 @@ Extensoes: Prettier + HTML/CSS + Live Server
 
 
 
+## Steam
+
+sudo pacman -Syu
+sudo pacman -Sy nano
+sudo nano /etc/pacman.conf
+-> uncomment everything about mirrorlist, incluind the []
+sudo pacman -Syu
+sudo pacman -Ss steam
+
+
 ## Terminal
 
 Add fonts to read/show emojis
@@ -46,4 +56,5 @@ Add fonts to read/show emojis
 Add fonts to read/show characters japanese/chinese/korean
 
 Add package ffmpeg 
+
 
