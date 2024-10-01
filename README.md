@@ -37,6 +37,11 @@ ssh key
 
 Extensoes: Prettier + HTML/CSS + Live Server
 
+## Net
+
+vpn fcup - > snx
+vpn feup -> https://archive.archlinux.org/packages/p/ppp/
+
 
 
 ## Steam
